@@ -1,0 +1,4 @@
+ANIMALS,inc,6,5,10
+PLANTS,switch,on,on,off
+BIRDS,var,eagle,eagle,owl,crow
+PLANETS,var,mars,mars,venus,saturn,jupiter
